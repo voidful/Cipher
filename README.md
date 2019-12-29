@@ -36,15 +36,13 @@ Website: [https://voidful.github.io/Cipher](https://voidful.github.io/Cipher)
 ## Screenshots
 
 ### Start Page
-![Start Page](https://lh3.googleusercontent.com/w34ywRoyWveZhpmjVqEPJDTGLPqTBXqqtUhjXd0tj-7LkCueN5AngknqmXcHU8jiCaop=w1914-h953-rw)
+![Start Page](https://lh3.googleusercontent.com/GQwoBzLCIRGrD-99dEt93w7hjeU9N0gBztIMedRKHVvj6AUSRzs-kXluWIiVyJEn8vc=w1920-h1017)
 
-### Double Verification
-![Make sure every one can generate different password in same input](https://lh3.googleusercontent.com/EzJlr6ToC7PbkYJXCAf7fwvEACU-vrSQWElaq5E5y28imgJgHedJpNcvf9bFvD9BAmM=w1914-h953-rw)
+### Double Verification. 
+![Make sure every one can generate different password in same input](https://lh3.googleusercontent.com/6avtXyFx0OQ2vKdaCtYq9tbk8_jwvmrrSpkdnEFprer6Hw_kMcXLlsk9DAZoleyPqH8=w1920-h1017)
 
-### Generate Page 
-![blacklist to filter the news and hide them](https://lh3.googleusercontent.com/PGqplOtYvm8aKMNfrFI7KNDlfOXtBhPuhMC1JYZHNvCE7MxefooCHGVEHQkDnHK20MZE=w1914-h953-rw)
-
-![](https://lh3.googleusercontent.com/apIvl8Rq2_W-VMrYzIndCk5zZ_ttV7Jcgldn9urN41AhyA7H_C4OuSV9dKcAMojiECs=w1914-h953-rw)
+### Generate Page   
+![](https://lh3.googleusercontent.com/_iaN2VVroFEgmpvI3skCYIZFkoUDxuDYRvLgQdc0OUhlsjPZqrq3VSHaiSucPEZEoTA=w1920-h1017)  
 
 
 ## Privacy Policy
